@@ -4,4 +4,6 @@ You'll need to grant the bot access to your Discord server: https://discordpy.re
 
 Once done, create a file named ".env" of the following form:  
 DISCORD_TOKEN=[your token]  
-DISCORD_GUILD=[your server name]
+DISCORD_GUILD=[your server name]  
+
+Once that's done, simply run the bot from command line: python ./bot.py
